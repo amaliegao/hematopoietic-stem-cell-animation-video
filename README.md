@@ -1,4 +1,6 @@
 # hematopoietic-stem-cell-animation-video
-Animation video for BME 5110 Stem Cell Bioengineering. Aimed at high-schoolers interested in hematopoietic stem cells.
+Animation video for BME 5110 Stem Cell Bioengineering (Cornell University). Aimed at high-schoolers interested in hematopoietic stem cells.
 
-Created using Canva.
+* Script by Amalie Gao and Zonglan Xie
+* Voiceover by Zongland Xie (part 1) and Amalie Gao (part 2)
+* Animation by Amalie Gao
